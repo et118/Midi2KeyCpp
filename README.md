@@ -1,5 +1,6 @@
 # Midi2KeyCpp
-A Midi to keypress application made in C++
+Converts Midi inputs from a piano to virtualPiano keypresses.
+Made in C++
 <br>
 Compiled in Visual Studio 2019
 
